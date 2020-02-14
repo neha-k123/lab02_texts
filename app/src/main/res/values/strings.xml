@@ -1,0 +1,15 @@
+<resources>
+    <string name="name_hint">Please enter your name!</string>
+    <string name="click_button">Press me!</string>
+    <string name="app_name">My Really Fun App</string>
+    <string name="bob">surprise!</string>
+    <string-array name="day_of_week">
+        <item>Monday:(</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday(today)!!</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>
